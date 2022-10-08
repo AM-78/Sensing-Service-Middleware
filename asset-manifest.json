@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Sensing-Service-Middleware/static/css/main.587cefb0.css",
+    "main.js": "/Sensing-Service-Middleware/static/js/main.914a8f3e.js",
+    "static/media/video.mp4": "/Sensing-Service-Middleware/static/media/video.ee0262b099cb8051a3b0.mp4",
+    "static/media/img1.png": "/Sensing-Service-Middleware/static/media/img1.18789bbd44c658f153b8.png",
+    "static/media/Copy of Output.csv": "/Sensing-Service-Middleware/static/media/Copy of Output.50f3f5844096495b4507.csv",
+    "static/media/sen1.png": "/Sensing-Service-Middleware/static/media/sen1.98c9ec7d1346bf937214.png",
+    "static/media/sens3.png": "/Sensing-Service-Middleware/static/media/sens3.75cbf9771eed417dd7bd.png",
+    "static/media/RAW_ACCELEROMETERS_D3.csv": "/Sensing-Service-Middleware/static/media/RAW_ACCELEROMETERS_D3.c4c4c2bcdb0b70873105.csv",
+    "static/media/RAW_ACCELEROMETERS_D2.csv": "/Sensing-Service-Middleware/static/media/RAW_ACCELEROMETERS_D2.38fc2d4f3fbaab0bba8d.csv",
+    "static/media/RAW_ACCELEROMETERS_D1.csv": "/Sensing-Service-Middleware/static/media/RAW_ACCELEROMETERS_D1.64a21c34a7545631c0ba.csv",
+    "static/media/sens2.png": "/Sensing-Service-Middleware/static/media/sens2.de873f0dbaac535f616c.png",
+    "static/media/sens8.png": "/Sensing-Service-Middleware/static/media/sens8.e7cc028d44528ca800cd.png",
+    "static/media/sens4.png": "/Sensing-Service-Middleware/static/media/sens4.ff459407fff4bd112f4e.png",
+    "static/media/sens7.png": "/Sensing-Service-Middleware/static/media/sens7.4bf68d5b3495563566e6.png",
+    "static/media/sens5.png": "/Sensing-Service-Middleware/static/media/sens5.8232bb88e5a08dee0e9d.png",
+    "static/media/sens6.png": "/Sensing-Service-Middleware/static/media/sens6.92770a769f0f2f8fa23d.png",
+    "static/media/logo.png": "/Sensing-Service-Middleware/static/media/logo.b3894f807712b649a139.png",
+    "static/media/scroll_icon.png": "/Sensing-Service-Middleware/static/media/scroll_icon.44e64b913f226ab7efcf.png",
+    "index.html": "/Sensing-Service-Middleware/index.html",
+    "main.587cefb0.css.map": "/Sensing-Service-Middleware/static/css/main.587cefb0.css.map",
+    "main.914a8f3e.js.map": "/Sensing-Service-Middleware/static/js/main.914a8f3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.587cefb0.css",
+    "static/js/main.914a8f3e.js"
+  ]
+}
