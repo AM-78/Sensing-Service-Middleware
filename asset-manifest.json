@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sensing-Service-Middleware/static/css/main.587cefb0.css",
-    "main.js": "/Sensing-Service-Middleware/static/js/main.914a8f3e.js",
+    "main.css": "/Sensing-Service-Middleware/static/css/main.ac357f0b.css",
+    "main.js": "/Sensing-Service-Middleware/static/js/main.0492df0d.js",
     "static/media/video.mp4": "/Sensing-Service-Middleware/static/media/video.ee0262b099cb8051a3b0.mp4",
     "static/media/img1.png": "/Sensing-Service-Middleware/static/media/img1.18789bbd44c658f153b8.png",
     "static/media/Copy of Output.csv": "/Sensing-Service-Middleware/static/media/Copy of Output.50f3f5844096495b4507.csv",
@@ -19,11 +19,11 @@
     "static/media/logo.png": "/Sensing-Service-Middleware/static/media/logo.b3894f807712b649a139.png",
     "static/media/scroll_icon.png": "/Sensing-Service-Middleware/static/media/scroll_icon.44e64b913f226ab7efcf.png",
     "index.html": "/Sensing-Service-Middleware/index.html",
-    "main.587cefb0.css.map": "/Sensing-Service-Middleware/static/css/main.587cefb0.css.map",
-    "main.914a8f3e.js.map": "/Sensing-Service-Middleware/static/js/main.914a8f3e.js.map"
+    "main.ac357f0b.css.map": "/Sensing-Service-Middleware/static/css/main.ac357f0b.css.map",
+    "main.0492df0d.js.map": "/Sensing-Service-Middleware/static/js/main.0492df0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.587cefb0.css",
-    "static/js/main.914a8f3e.js"
+    "static/css/main.ac357f0b.css",
+    "static/js/main.0492df0d.js"
   ]
 }
