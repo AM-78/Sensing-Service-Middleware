@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/Sensing-Service-Middleware/static/css/main.ac357f0b.css",
-    "main.js": "/Sensing-Service-Middleware/static/js/main.0492df0d.js",
+    "main.js": "/Sensing-Service-Middleware/static/js/main.d27400f2.js",
     "static/media/video.mp4": "/Sensing-Service-Middleware/static/media/video.ee0262b099cb8051a3b0.mp4",
     "static/media/img1.png": "/Sensing-Service-Middleware/static/media/img1.18789bbd44c658f153b8.png",
-    "static/media/Copy of Output.csv": "/Sensing-Service-Middleware/static/media/Copy of Output.50f3f5844096495b4507.csv",
     "static/media/sen1.png": "/Sensing-Service-Middleware/static/media/sen1.98c9ec7d1346bf937214.png",
     "static/media/sens3.png": "/Sensing-Service-Middleware/static/media/sens3.75cbf9771eed417dd7bd.png",
     "static/media/RAW_ACCELEROMETERS_D3.csv": "/Sensing-Service-Middleware/static/media/RAW_ACCELEROMETERS_D3.c4c4c2bcdb0b70873105.csv",
@@ -20,10 +19,10 @@
     "static/media/scroll_icon.png": "/Sensing-Service-Middleware/static/media/scroll_icon.44e64b913f226ab7efcf.png",
     "index.html": "/Sensing-Service-Middleware/index.html",
     "main.ac357f0b.css.map": "/Sensing-Service-Middleware/static/css/main.ac357f0b.css.map",
-    "main.0492df0d.js.map": "/Sensing-Service-Middleware/static/js/main.0492df0d.js.map"
+    "main.d27400f2.js.map": "/Sensing-Service-Middleware/static/js/main.d27400f2.js.map"
   },
   "entrypoints": [
     "static/css/main.ac357f0b.css",
-    "static/js/main.0492df0d.js"
+    "static/js/main.d27400f2.js"
   ]
 }
